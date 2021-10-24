@@ -1,0 +1,11 @@
+[submodule "nlwheatapp"]
+	path = nlwheatapp
+	url = https://github.com/MatheusGoSa/NWL_Heat_2021_React_Native.git
+
+[submodule "node_heat"]
+	path = node_heat
+	url = https://github.com/MatheusGoSa/NLW_Heat_2021_NodeJs.git
+	
+[submodule "web"]
+	path = web
+	url = https://github.com/MatheusGoSa/NLW_Heat_2021_ReactJs.git
