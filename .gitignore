@@ -1,9 +1,0 @@
-nlwheatapp/.expo/           #ignorar arquivo .expo
-nlwheatapp/.expo-shared/    #ignorar arquivo .expo
-nlwheatapp/node_modules/    #ignorar arquivo .node_modules
-
-node_heat/node_modules/     #ignorar arquivo .node_modules
-node_heat/.gitgnore     #ignorar arquivo .node_modules
-node_heat/.env     #ignorar arquivo .node_modules
-
-web/node_modules/           #ignorar arquivo .node_modules
